@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Otus\HomeWork;
+namespace Crezi\Hw3ComposerPackages;
 
 class CharToIntProcessor
 {

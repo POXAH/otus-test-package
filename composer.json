@@ -1,0 +1,10 @@
+{
+    "name": "crezi/hw3-composer-packages",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Crezi\\Hw3ComposerPackages\\": "src/"
+        }
+    },
+    "require": {}
+}
