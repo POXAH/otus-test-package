@@ -6,5 +6,8 @@
             "Crezi\\Hw3ComposerPackages\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "ext-mbstring": "*",
+        "php": ">=8.0"
+    }
 }
